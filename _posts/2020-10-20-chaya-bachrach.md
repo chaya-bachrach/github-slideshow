@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello world!!!!!!!!!!!!!!
+Only when it is dark do the stars shine!
